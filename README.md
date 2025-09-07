@@ -21,9 +21,5 @@ The analysis helps in identifying key revenue drivers, top-selling products, and
 - Found cancellation/return rates by category.  
 - Highlighted contribution of high-value customers.  
 
-## 🔹 Deliverables
-- Jupyter Notebook (`Sales Project.ipynb`)  
-- Visualizations (charts, plots) for insights  
-- Documentation of findings and recommendations  
 
 ---
